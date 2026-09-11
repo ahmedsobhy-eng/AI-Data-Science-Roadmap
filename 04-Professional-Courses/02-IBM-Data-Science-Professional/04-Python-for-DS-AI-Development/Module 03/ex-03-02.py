@@ -1,12 +1,24 @@
-dates = [1982, 1980, 1973, 2000]
+class Car:
+    # Class attribute (shared by all instances)
+    max_speed = 120  # Maximum speed in km/h
 
-i = 0
-year = dates[0]
+    # Constructor method (initialize instance attributes)
+    def __init__(self, make, model, color, speed=0):
+        self.make = make
+        self.model = model
+        self.color = color
+        self.speed = speed  # Initial speed is set to 0
 
-while(year != 1973):    
-    print(year)
-    i = i + 1
-    year=dates[i]
-    
+    # Method for accelerating the car
+    def accelerate(self, acceleration):
+        if self.speed + acceleration <= Car.max_speed:
+            self.speed += acceleration
+        else:
+            self.speed = Car.max_speed
 
-print("It took ", i ,"repetitions to get out of loop.")
+    # Method to get the current speed of the car
+    def get_speed(self):
+        return self.speed
+
+
+
