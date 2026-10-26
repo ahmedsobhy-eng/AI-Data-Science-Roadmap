@@ -1,0 +1,5 @@
+﻿split,model,threshold,rows,positive_share_percent,roc_auc,average_precision,accuracy,balanced_accuracy,precision,recall,f1,f2,true_negatives,false_positives,false_negatives,true_positives
+test_2024-2025,all_positive_reference,0.5,2594,63.45,0.5,0.6345,0.6345,0.5,0.6345,1.0,0.7764,0.8967,0,948,0,1646
+test_2024-2025,logistic_threshold_0.50,0.5,2594,63.45,0.613,0.7102,0.5848,0.5885,0.715,0.5747,0.6373,0.5982,571,377,700,946
+test_2024-2025,logistic_validation_balanced_accuracy_threshold,0.475,2594,63.45,0.613,0.7102,0.5964,0.5782,0.6961,0.6458,0.67,0.6553,484,464,583,1063
+validation_2023-2024,logistic_validation_balanced_accuracy_threshold,0.475,2382,63.77,0.6282,0.7312,0.6163,0.5911,0.7059,0.6827,0.6941,0.6872,431,432,482,1037

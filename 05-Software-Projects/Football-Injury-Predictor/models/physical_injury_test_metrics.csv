@@ -1,0 +1,5 @@
+﻿model,split,rows,positive_share_percent,threshold,roc_auc,average_precision,brier_score,accuracy,balanced_accuracy,precision,recall,f1,true_negatives,false_positives,false_negatives,true_positives
+all_positive_reference,test_2024-2025,2503,59.13,0.5,0.5,0.5913,0.245,0.5913,0.5,0.5913,1.0,0.7432,0,1023,0,1480
+logistic_regression,test_2024-2025_threshold_0.50,2503,59.13,0.5,0.6682,0.7378,0.2271,0.6245,0.6209,0.6991,0.6405,0.6685,615,408,532,948
+logistic_regression,test_2024-2025_walk_forward_balanced_threshold,2503,59.13,0.525,0.6682,0.7378,0.2271,0.6185,0.6235,0.7119,0.5959,0.6488,666,357,598,882
+logistic_regression,walk_forward_validation_oof,7043,56.11,0.525,0.6644,0.703,0.2283,0.6148,0.6201,0.6865,0.5769,0.627,2050,1041,1672,2280

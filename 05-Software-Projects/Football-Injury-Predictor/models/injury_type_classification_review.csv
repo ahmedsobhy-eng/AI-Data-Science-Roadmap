@@ -1,0 +1,315 @@
+﻿injury,event_count,days_out_known,games_missed_known,assigned_class,review_note
+unknown injury,5830,5828,5533,ambiguous,Not used as positive or negative without manual review
+Tonsillitis,63,63,57,ambiguous,Not used as positive or negative without manual review
+inflammation,48,48,45,ambiguous,Not used as positive or negative without manual review
+Tendonitis,44,44,44,ambiguous,Not used as positive or negative without manual review
+Arthroscopy,36,36,32,ambiguous,Not used as positive or negative without manual review
+Heel spur,28,28,26,ambiguous,Not used as positive or negative without manual review
+Sore muscles,28,28,26,ambiguous,Not used as positive or negative without manual review
+Herniated disc,25,25,25,ambiguous,Not used as positive or negative without manual review
+Mononucleation,20,20,20,ambiguous,Not used as positive or negative without manual review
+contortion,9,9,6,ambiguous,Not used as positive or negative without manual review
+Cut,7,7,6,ambiguous,Not used as positive or negative without manual review
+Whiplash,5,5,5,ambiguous,Not used as positive or negative without manual review
+Nerval disease,3,3,3,ambiguous,Not used as positive or negative without manual review
+Shingles,3,3,3,ambiguous,Not used as positive or negative without manual review
+Blood clots in the lungs,2,2,2,ambiguous,Not used as positive or negative without manual review
+Cerebral hemorrhage,2,2,2,ambiguous,Not used as positive or negative without manual review
+Compression of the spine,2,2,2,ambiguous,Not used as positive or negative without manual review
+Pelvic obliquity,2,2,2,ambiguous,Not used as positive or negative without manual review
+abscess,2,2,2,ambiguous,Not used as positive or negative without manual review
+Balance disorder,1,1,1,ambiguous,Not used as positive or negative without manual review
+Herniated umbilical button,1,1,1,ambiguous,Not used as positive or negative without manual review
+Inflammation in the spine,1,1,1,ambiguous,Not used as positive or negative without manual review
+Inflammation of the pancreas,1,1,1,ambiguous,Not used as positive or negative without manual review
+Vein occlusion,1,1,1,ambiguous,Not used as positive or negative without manual review
+Corona virus,1746,1746,1515,non_physical,Excluded from physical-injury target
+Ill,1721,1721,1610,non_physical,Excluded from physical-injury target
+Fitness,1302,1302,1242,non_physical,Excluded from physical-injury target
+Rest,446,446,427,non_physical,Excluded from physical-injury target
+flu,365,365,347,non_physical,Excluded from physical-injury target
+Quarantine,312,312,186,non_physical,Excluded from physical-injury target
+cold,198,198,172,non_physical,Excluded from physical-injury target
+Fever,196,196,178,non_physical,Excluded from physical-injury target
+influenza,193,193,175,non_physical,Excluded from physical-injury target
+Stomach flu,180,180,164,non_physical,Excluded from physical-injury target
+infection,157,157,140,non_physical,Excluded from physical-injury target
+Virus,139,139,132,non_physical,Excluded from physical-injury target
+Stomach problems,72,72,68,non_physical,Excluded from physical-injury target
+Appendectomy,40,40,39,non_physical,Excluded from physical-injury target
+Appendicitis,25,25,23,non_physical,Excluded from physical-injury target
+pneumonia,24,24,23,non_physical,Excluded from physical-injury target
+Intestinal virus,22,22,22,non_physical,Excluded from physical-injury target
+Toothache,12,12,12,non_physical,Excluded from physical-injury target
+Depression,11,11,10,non_physical,Excluded from physical-injury target
+Food poisoning,9,9,9,non_physical,Excluded from physical-injury target
+angina,9,9,8,non_physical,Excluded from physical-injury target
+malaria,8,8,7,non_physical,Excluded from physical-injury target
+bronchitis,7,7,6,non_physical,Excluded from physical-injury target
+Testicular cancer,6,6,5,non_physical,Excluded from physical-injury target
+Lymphatic cancer,4,4,4,non_physical,Excluded from physical-injury target
+Tooth infection,4,4,4,non_physical,Excluded from physical-injury target
+Cancer,3,3,2,non_physical,Excluded from physical-injury target
+allergic reaction,3,3,3,non_physical,Excluded from physical-injury target
+chickenpox,3,3,3,non_physical,Excluded from physical-injury target
+Blood poisoning,2,2,2,non_physical,Excluded from physical-injury target
+Skin disease,2,2,2,non_physical,Excluded from physical-injury target
+tuberculosis,2,2,2,non_physical,Excluded from physical-injury target
+meningitis,1,1,1,non_physical,Excluded from physical-injury target
+Hamstring injury,3025,3024,2919,physical,Included as an explicit physical injury event
+Muscle injury,2910,2910,2783,physical,Included as an explicit physical injury event
+muscular problems,2003,2003,1866,physical,Included as an explicit physical injury event
+Knee injury,1754,1754,1665,physical,Included as an explicit physical injury event
+Ankle injury,1570,1569,1464,physical,Included as an explicit physical injury event
+Knock,1220,1220,1095,physical,Included as an explicit physical injury event
+Calf injury,1014,1014,966,physical,Included as an explicit physical injury event
+Thigh problems,866,866,818,physical,Included as an explicit physical injury event
+Knee problems,812,812,762,physical,Included as an explicit physical injury event
+Cruciate ligament tear,766,766,743,physical,Included as an explicit physical injury event
+Shoulder injury,700,700,650,physical,Included as an explicit physical injury event
+Adductor pain,691,691,656,physical,Included as an explicit physical injury event
+Muscle fatigue,544,544,476,physical,Included as an explicit physical injury event
+Adductor injury,539,539,513,physical,Included as an explicit physical injury event
+Foot injury,527,527,493,physical,Included as an explicit physical injury event
+Groin injury,514,514,478,physical,Included as an explicit physical injury event
+Ankle sprain,475,475,433,physical,Included as an explicit physical injury event
+Torn muscle fiber,475,475,461,physical,Included as an explicit physical injury event
+Dead leg,452,452,432,physical,Included as an explicit physical injury event
+Hamstring muscle injury,429,429,417,physical,Included as an explicit physical injury event
+Calf problems,427,427,405,physical,Included as an explicit physical injury event
+minor knock,418,418,384,physical,Included as an explicit physical injury event
+Hamstring strain,400,400,372,physical,Included as an explicit physical injury event
+Ankle problems,330,330,286,physical,Included as an explicit physical injury event
+Leg injury,329,329,307,physical,Included as an explicit physical injury event
+Back problems,314,314,294,physical,Included as an explicit physical injury event
+Knee surgery,312,312,304,physical,Included as an explicit physical injury event
+Injury to the ankle,282,282,261,physical,Included as an explicit physical injury event
+Hip injury,278,278,268,physical,Included as an explicit physical injury event
+Back injury,267,267,238,physical,Included as an explicit physical injury event
+concussion,263,263,243,physical,Included as an explicit physical injury event
+bruise,251,251,216,physical,Included as an explicit physical injury event
+Meniscus injury,241,241,229,physical,Included as an explicit physical injury event
+Head injury,240,240,205,physical,Included as an explicit physical injury event
+Muscle tear,201,201,195,physical,Included as an explicit physical injury event
+Achilles tendon problems,188,188,176,physical,Included as an explicit physical injury event
+strain,173,173,160,physical,Included as an explicit physical injury event
+Muscle strain,165,165,150,physical,Included as an explicit physical injury event
+Cruciate ligament injury,157,157,153,physical,Included as an explicit physical injury event
+Torn muscle bundle,156,156,152,physical,Included as an explicit physical injury event
+Metatarsal fracture,149,149,144,physical,Included as an explicit physical injury event
+Groin problems,146,146,140,physical,Included as an explicit physical injury event
+Hip problems,146,146,137,physical,Included as an explicit physical injury event
+Torn thigh muscle,142,142,134,physical,Included as an explicit physical injury event
+Inner ligament injury,137,137,136,physical,Included as an explicit physical injury event
+Ligament injury,133,133,124,physical,Included as an explicit physical injury event
+surgery,123,123,114,physical,Included as an explicit physical injury event
+Ankle surgery,110,110,107,physical,Included as an explicit physical injury event
+Calf muscle tear,110,110,109,physical,Included as an explicit physical injury event
+Achilles tendon rupture,109,109,106,physical,Included as an explicit physical injury event
+Pubalgia,109,109,104,physical,Included as an explicit physical injury event
+Meniscus tear,97,97,95,physical,Included as an explicit physical injury event
+Toe injury,97,97,92,physical,Included as an explicit physical injury event
+Lumbago,91,91,85,physical,Included as an explicit physical injury event
+Knee bruise,90,90,74,physical,Included as an explicit physical injury event
+Inflammation of pubic bone,86,86,83,physical,Included as an explicit physical injury event
+Foot bruise,85,85,70,physical,Included as an explicit physical injury event
+Broken fibula,82,82,80,physical,Included as an explicit physical injury event
+Broken collarbone,80,80,77,physical,Included as an explicit physical injury event
+Calf strain,79,79,72,physical,Included as an explicit physical injury event
+Broken nose bone,78,78,64,physical,Included as an explicit physical injury event
+Groin surgery,78,78,68,physical,Included as an explicit physical injury event
+Injury to abdominal muscles,78,78,73,physical,Included as an explicit physical injury event
+Bruised ribs,77,77,65,physical,Included as an explicit physical injury event
+Hand injury,77,77,67,physical,Included as an explicit physical injury event
+Syndesmotic ligament tear,77,77,77,physical,Included as an explicit physical injury event
+Groin strain,76,76,71,physical,Included as an explicit physical injury event
+Torn ankle ligaments,71,71,71,physical,Included as an explicit physical injury event
+Torn muscle fiber in the adductor area,71,71,70,physical,Included as an explicit physical injury event
+Elbow injury,65,65,59,physical,Included as an explicit physical injury event
+Broken toe,61,61,56,physical,Included as an explicit physical injury event
+Shin injury,59,59,54,physical,Included as an explicit physical injury event
+Broken foot,57,57,56,physical,Included as an explicit physical injury event
+Inner ligament stretch of the knee,57,57,53,physical,Included as an explicit physical injury event
+sprain,54,54,49,physical,Included as an explicit physical injury event
+Bruise on ankle,53,53,47,physical,Included as an explicit physical injury event
+Cruciate ligament surgery,53,53,51,physical,Included as an explicit physical injury event
+Heel injury,53,53,51,physical,Included as an explicit physical injury event
+Rib fracture,53,53,52,physical,Included as an explicit physical injury event
+Capsular injury,52,52,42,physical,Included as an explicit physical injury event
+Hip flexor problems,52,52,50,physical,Included as an explicit physical injury event
+Arm injury,50,50,45,physical,Included as an explicit physical injury event
+Tendon rupture,50,50,49,physical,Included as an explicit physical injury event
+Torn knee ligaments,50,50,47,physical,Included as an explicit physical injury event
+Broken hand,49,49,48,physical,Included as an explicit physical injury event
+Finger injury,49,49,45,physical,Included as an explicit physical injury event
+Inguinal hernia,49,49,47,physical,Included as an explicit physical injury event
+Strain in the thigh and gluteal muscles,49,49,46,physical,Included as an explicit physical injury event
+Torn lateral knee ligament,49,49,46,physical,Included as an explicit physical injury event
+Collateral ligament injury,48,48,46,physical,Included as an explicit physical injury event
+heart problems,48,48,46,physical,Included as an explicit physical injury event
+Inner knee ligament tear,47,47,44,physical,Included as an explicit physical injury event
+Broken ankle,46,46,45,physical,Included as an explicit physical injury event
+Bruised knee,46,46,38,physical,Included as an explicit physical injury event
+Patellar tendon problems,46,46,41,physical,Included as an explicit physical injury event
+Bone edema,45,45,42,physical,Included as an explicit physical injury event
+Broken finger,45,45,43,physical,Included as an explicit physical injury event
+Contracture,45,45,37,physical,Included as an explicit physical injury event
+Inflammation in the knee,45,45,44,physical,Included as an explicit physical injury event
+Tendon irritation,45,45,43,physical,Included as an explicit physical injury event
+Knee medial ligament tear,44,44,43,physical,Included as an explicit physical injury event
+Pelvic injury,44,44,40,physical,Included as an explicit physical injury event
+Stress reaction of the bone,44,44,35,physical,Included as an explicit physical injury event
+Metacarpal fracture,43,43,33,physical,Included as an explicit physical injury event
+Torn lateral ankle ligament,43,43,37,physical,Included as an explicit physical injury event
+Achilles tendon irritation,42,42,39,physical,Included as an explicit physical injury event
+Heel problems,42,42,37,physical,Included as an explicit physical injury event
+Muscle fiber tear,42,42,40,physical,Included as an explicit physical injury event
+Broken cheekbone,40,40,35,physical,Included as an explicit physical injury event
+Facial injury,39,39,31,physical,Included as an explicit physical injury event
+Muscle contusion,39,39,35,physical,Included as an explicit physical injury event
+Syndesmosis ligament tear,38,38,37,physical,Included as an explicit physical injury event
+Adductor tear,37,37,36,physical,Included as an explicit physical injury event
+Foot surgery,36,36,33,physical,Included as an explicit physical injury event
+Neck injury,36,36,32,physical,Included as an explicit physical injury event
+muscle stiffness,35,35,30,physical,Included as an explicit physical injury event
+Abdominal problems,34,34,29,physical,Included as an explicit physical injury event
+Ligament stretching,34,34,29,physical,Included as an explicit physical injury event
+Achilles tendon surgery,33,33,33,physical,Included as an explicit physical injury event
+Outer ligament problems,33,33,31,physical,Included as an explicit physical injury event
+Partial muscle tear,33,33,32,physical,Included as an explicit physical injury event
+Abdominal muscle strain,32,32,28,physical,Included as an explicit physical injury event
+Internal ligament strain,32,32,30,physical,Included as an explicit physical injury event
+Outer ligament tear,32,32,30,physical,Included as an explicit physical injury event
+Achilles heel problems,31,31,29,physical,Included as an explicit physical injury event
+Broken tibia,31,31,31,physical,Included as an explicit physical injury event
+Dental surgery,30,30,27,physical,Included as an explicit physical injury event
+Acromioclavicular joint dislocation,29,29,29,physical,Included as an explicit physical injury event
+Eye injury,29,29,23,physical,Included as an explicit physical injury event
+fracture,29,29,28,physical,Included as an explicit physical injury event
+Chest injury,28,28,26,physical,Included as an explicit physical injury event
+Pubic bone irritation,28,28,26,physical,Included as an explicit physical injury event
+Tear of the lateral meniscus,28,28,25,physical,Included as an explicit physical injury event
+Tendon tear,28,28,28,physical,Included as an explicit physical injury event
+Broken jaw,27,27,23,physical,Included as an explicit physical injury event
+Hip bruise,27,27,26,physical,Included as an explicit physical injury event
+Wrist fracture,27,27,25,physical,Included as an explicit physical injury event
+Achilles tendon contusion,26,26,22,physical,Included as an explicit physical injury event
+Ankle ligament tear,26,26,26,physical,Included as an explicit physical injury event
+Broken arm,25,25,25,physical,Included as an explicit physical injury event
+Wrist injury,25,25,19,physical,Included as an explicit physical injury event
+Broken leg,24,24,21,physical,Included as an explicit physical injury event
+Cartilage damage,24,24,24,physical,Included as an explicit physical injury event
+Lower leg fracture,24,24,24,physical,Included as an explicit physical injury event
+Patellar tendon rupture,24,24,24,physical,Included as an explicit physical injury event
+Shin bruise,24,24,17,physical,Included as an explicit physical injury event
+Torn ligaments,24,24,22,physical,Included as an explicit physical injury event
+Facial fracture,23,23,22,physical,Included as an explicit physical injury event
+Internal ligament tear,23,23,22,physical,Included as an explicit physical injury event
+Nose surgery,23,23,17,physical,Included as an explicit physical injury event
+Metatarsal bruise,22,22,20,physical,Included as an explicit physical injury event
+Nose injury,22,22,16,physical,Included as an explicit physical injury event
+fatigue fracture,22,22,21,physical,Included as an explicit physical injury event
+Edema in the knee,21,21,20,physical,Included as an explicit physical injury event
+Lumbar vertebra problems,21,21,17,physical,Included as an explicit physical injury event
+Arch problems,20,20,16,physical,Included as an explicit physical injury event
+Forearm fracture,20,20,19,physical,Included as an explicit physical injury event
+Meniscus damage,19,19,19,physical,Included as an explicit physical injury event
+Calf stiffness,17,17,16,physical,Included as an explicit physical injury event
+Overstretching,17,17,17,physical,Included as an explicit physical injury event
+Inflammation of the sole of the foot,16,16,16,physical,Included as an explicit physical injury event
+Knee collateral ligament strain,16,16,15,physical,Included as an explicit physical injury event
+Right hip flexor problems,16,16,15,physical,Included as an explicit physical injury event
+Bone bruise,15,15,12,physical,Included as an explicit physical injury event
+Bruised back,14,14,12,physical,Included as an explicit physical injury event
+Cruciate ligament strain,14,14,14,physical,Included as an explicit physical injury event
+Pelvic contusion,14,14,12,physical,Included as an explicit physical injury event
+Scaphoid fracture,14,14,12,physical,Included as an explicit physical injury event
+Knee collateral ligament tear,13,13,13,physical,Included as an explicit physical injury event
+Patellar tendon irritation,13,13,13,physical,Included as an explicit physical injury event
+flesh wound,13,13,12,physical,Included as an explicit physical injury event
+Broken shoulder,12,12,11,physical,Included as an explicit physical injury event
+Cervical spine injury,12,12,12,physical,Included as an explicit physical injury event
+Fissure of the fibula,12,12,12,physical,Included as an explicit physical injury event
+Hairline crack in foot,11,11,11,physical,Included as an explicit physical injury event
+Inflammation of ligaments in the knee,11,11,10,physical,Included as an explicit physical injury event
+Partial damage to the cruciate ligament,11,11,10,physical,Included as an explicit physical injury event
+traffic accident,11,11,10,physical,Included as an explicit physical injury event
+Thumb injury,10,10,9,physical,Included as an explicit physical injury event
+Bruise on the ankle joint,9,9,6,physical,Included as an explicit physical injury event
+Bursitis,9,9,7,physical,Included as an explicit physical injury event
+Left hip flexor problems,9,9,7,physical,Included as an explicit physical injury event
+Partial tear of the plantar fascia,9,9,9,physical,Included as an explicit physical injury event
+Patellar tendon tear,9,9,8,physical,Included as an explicit physical injury event
+laceration wound,9,9,8,physical,Included as an explicit physical injury event
+Broken thumb,8,8,7,physical,Included as an explicit physical injury event
+Eyebow fracture,8,8,8,physical,Included as an explicit physical injury event
+Fracture of the eye socket,8,8,8,physical,Included as an explicit physical injury event
+Inflammation in the ankle joint,8,8,8,physical,Included as an explicit physical injury event
+Kidney problems,8,8,8,physical,Included as an explicit physical injury event
+Vertebral injury,8,8,8,physical,Included as an explicit physical injury event
+open wound,8,8,8,physical,Included as an explicit physical injury event
+Elbow fracture,7,7,7,physical,Included as an explicit physical injury event
+Laceration,7,7,3,physical,Included as an explicit physical injury event
+Lumbar vertebra fracture,7,7,6,physical,Included as an explicit physical injury event
+Pneumothorax,7,7,7,physical,Included as an explicit physical injury event
+Tibia and fibula fracture,7,7,7,physical,Included as an explicit physical injury event
+Broken kneecap,6,6,6,physical,Included as an explicit physical injury event
+Bruise on shinbone,6,6,3,physical,Included as an explicit physical injury event
+Capsule rupture,6,6,5,physical,Included as an explicit physical injury event
+Circulation problems,6,6,5,physical,Included as an explicit physical injury event
+Crack bruise,6,6,6,physical,Included as an explicit physical injury event
+Fracture of fibula shaft,6,6,6,physical,Included as an explicit physical injury event
+Ligament tear,6,6,6,physical,Included as an explicit physical injury event
+Peroneus tendon injury,6,6,6,physical,Included as an explicit physical injury event
+Sciatica problems,6,6,5,physical,Included as an explicit physical injury event
+Shoulder joint contusion,6,6,4,physical,Included as an explicit physical injury event
+Bone marrow swelling,5,5,5,physical,Included as an explicit physical injury event
+Cheekbone bruise,5,5,3,physical,Included as an explicit physical injury event
+Inflammation of the biceps tendon in the thigh,5,5,5,physical,Included as an explicit physical injury event
+Inner ankle ligament tear,5,5,5,physical,Included as an explicit physical injury event
+Pubic bone bruise,5,5,5,physical,Included as an explicit physical injury event
+Blockage in the back,4,4,3,physical,Included as an explicit physical injury event
+Dislocation of the kneecap,4,4,4,physical,Included as an explicit physical injury event
+Femoral fracture,4,4,4,physical,Included as an explicit physical injury event
+Inner ligament tear in ankle joint,4,4,4,physical,Included as an explicit physical injury event
+Lung contusion,4,4,4,physical,Included as an explicit physical injury event
+Midfacial fracture,4,4,4,physical,Included as an explicit physical injury event
+Patellar tendinopathy syndrome,4,4,4,physical,Included as an explicit physical injury event
+Collateral ligament tear,3,3,3,physical,Included as an explicit physical injury event
+Dislocation fracture of the ankle joint,3,3,3,physical,Included as an explicit physical injury event
+Hairline fracture in the fibula,3,3,3,physical,Included as an explicit physical injury event
+Longitudinal tendon tear,3,3,3,physical,Included as an explicit physical injury event
+Meniscus irritation,3,3,2,physical,Included as an explicit physical injury event
+Partial patellar tendon tear,3,3,3,physical,Included as an explicit physical injury event
+Patellar tendon dislocation,3,3,3,physical,Included as an explicit physical injury event
+Ruptured eardrum,3,3,3,physical,Included as an explicit physical injury event
+Toe joint capsular tear,3,3,2,physical,Included as an explicit physical injury event
+pinched nerve,3,3,2,physical,Included as an explicit physical injury event
+Bone inflammation,2,2,2,physical,Included as an explicit physical injury event
+Bone splintering,2,2,2,physical,Included as an explicit physical injury event
+Cervical vertebra fracture,2,2,2,physical,Included as an explicit physical injury event
+Cracked bone,2,2,2,physical,Included as an explicit physical injury event
+Fracture of frontal bone,2,2,2,physical,Included as an explicit physical injury event
+Hairline fracture in the muscles,2,2,2,physical,Included as an explicit physical injury event
+Intestinal surgery,2,2,2,physical,Included as an explicit physical injury event
+Neck bruise,2,2,1,physical,Included as an explicit physical injury event
+Overstretching of the syndesmotic ligament,2,2,2,physical,Included as an explicit physical injury event
+Skull fracture,2,2,2,physical,Included as an explicit physical injury event
+combustion,2,2,2,physical,Included as an explicit physical injury event
+double ligament tear,2,2,2,physical,Included as an explicit physical injury event
+Bone sprain,1,1,1,physical,Included as an explicit physical injury event
+Broken petrous bone in the ear,1,1,1,physical,Included as an explicit physical injury event
+Capsular tear of ankle joint,1,1,1,physical,Included as an explicit physical injury event
+Cheekbone surgery,1,1,1,physical,Included as an explicit physical injury event
+Coccyx bruise,1,1,1,physical,Included as an explicit physical injury event
+Cyst in the knee,1,1,1,physical,Included as an explicit physical injury event
+Inflammation in the head of the fibula,1,1,1,physical,Included as an explicit physical injury event
+Inflammation of the leg skin,1,1,1,physical,Included as an explicit physical injury event
+Insect bite,1,1,1,physical,Included as an explicit physical injury event
+Kidney stone surgery,1,1,1,physical,Included as an explicit physical injury event
+Remove screws/nails,1,1,1,physical,Included as an explicit physical injury event
+Scaphoid surgery,1,1,1,physical,Included as an explicit physical injury event
+Skull base fracture,1,1,1,physical,Included as an explicit physical injury event
+Testicle rupture,1,1,1,physical,Included as an explicit physical injury event
+collapsed lung,1,1,1,physical,Included as an explicit physical injury event
+inflamed wound,1,1,0,physical,Included as an explicit physical injury event
